@@ -1,0 +1,2 @@
+# SwordofMagic2Addon
+SwordofMagic2の追加システム
