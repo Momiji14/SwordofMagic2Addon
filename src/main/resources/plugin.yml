@@ -1,0 +1,14 @@
+name: SwordofMagic2Addon
+version: '${project.version}'
+main: swordofmagic2addon.System
+authors: [ MomiNeko ]
+description: SwordofMagic2Addon
+
+commands:
+  newbind:
+    aliases: nb
+    description: description
+    usage: /<command>
+  castmode:
+    description: description
+    usage: /<command>
